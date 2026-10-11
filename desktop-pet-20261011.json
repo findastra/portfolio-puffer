@@ -1,14 +1,23 @@
 {
+  "pet": "portfolio-puffer",
+  "creator": "Astra",
+  "assistant": "OpenAI Codex (GPT-6)",
+  "date": "2026-10-11",
+  "status": "draft",
   "desktop_scale": 0.8,
-  "alpha": "Desktop renderer thresholds partial alpha to prevent magenta color-key flecks",
   "sparkles": false,
   "renderer": "astras-pet-apps/scripts/desktop-pets-20261011.cs",
-  "status": "draft",
-  "date": "2026-10-11",
-  "art_files": [],
-  "creator": "Astra",
-  "scale_reference": "Standard 58.75 logical-pixel height, with aspect-ratio width clamp before scaling",
-  "assistant": "OpenAI Codex (GPT-6)",
-  "notes": "Desktop cyan belly remapped to light pink RGB 255,190,215, keeping shading. Size reduced 20%.",
-  "pet": "portfolio-puffer"
+  "art_files": [
+    "desktop-art/portfolio-puffer/alarmed-20261011.png",
+    "desktop-art/portfolio-puffer/blink-20261011.png",
+    "desktop-art/portfolio-puffer/curious-20261011.png",
+    "desktop-art/portfolio-puffer/happy-20261011.png",
+    "desktop-art/portfolio-puffer/idle-20261011.png",
+    "desktop-art/portfolio-puffer/sad-20261011.png",
+    "desktop-art/portfolio-puffer/sick-20261011.png",
+    "desktop-art/portfolio-puffer/sleep-20261011.png",
+    "desktop-art/portfolio-puffer/worried-20261011.png"
+  ],
+  "notes": "Pink belly, seated forward-facing yellow foot soles.",
+  "source_sheet": "desktop-art/portfolio-puffer/sheet-20261011.png"
 }

@@ -6,6 +6,14 @@
 
 Collect changes worth sharing, shape the update, and mark what is ready.
 
+## Pictures
+
+![Portfolio Puffer's Portfolio Review Desk: update counters, your desk and the New update form](docs/images/portfolio-puffer-program-page-20261017.png)
+
+Portfolio Puffer's [program page](https://findastra.github.io/astras-pet-os/apps/portfolio-puffer-20261008.html) as published in Astra's PetOS.
+
+Screenshots taken 2026-10-17 with GitHub Goldfish's [project-image-generator](https://github.com/findastra/github-goldfish#project-image-generator); added with Claude Opus 5.5 (`claude-opus-5-5`), 2026-10-17.
+
 ## How to run
 
 Open [portfolio-puffer-20261008.html](portfolio-puffer-20261008.html) directly in a modern browser. No install, server, account, or network connection is needed.
